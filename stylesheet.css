@@ -1,0 +1,15 @@
+.container{
+    background-color: gray;
+    display: flex;
+    flex: wrap;
+    min-width: 200px;
+    max-width: 200px;
+    min-height: 400px;
+    max-height: 400px;
+}
+
+.display{
+    background-color: red;
+    max-width: 100px;
+    min-width: 100px;
+}
